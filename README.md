@@ -20,5 +20,5 @@ Ubuntu == 18.04
 ![Screenshot from 2022-03-28 18-42-35](https://user-images.githubusercontent.com/81221315/160405262-c419f98d-7381-4131-a33b-e458e8d62d68.png)
 
 # References
-https://youtu.be/1SbHTAjZBL0 
+https://youtu.be/1SbHTAjZBL0  \
 https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
